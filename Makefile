@@ -1,0 +1,2 @@
+%.png: %.tra
+	./render.py $< $@
